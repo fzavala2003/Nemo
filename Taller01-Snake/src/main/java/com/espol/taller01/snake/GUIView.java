@@ -34,7 +34,7 @@ public class GUIView extends JPanel {
 	private final JPanel guiPanel;
 
 	/** This is the factory which creates GameModels for us */
-	private final IGameFactory gameFactory;
+	private final IGameFactory gameFac;
 
 	/**
 	 * Create a new GUIView. This will create a GameView and a GameController.
