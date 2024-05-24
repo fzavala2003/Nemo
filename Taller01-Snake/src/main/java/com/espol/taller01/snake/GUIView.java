@@ -15,6 +15,8 @@ import javax.swing.JPanel;
  * a gui for choosing a new game. The list of games will be aquired from
  * a GameFactory.
  */
+
+f=import 
 public class GUIView extends JPanel {
 	/** The "Start Game" button */
 	private final JButton startGameButton;
