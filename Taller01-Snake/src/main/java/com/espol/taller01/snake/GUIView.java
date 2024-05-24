@@ -80,7 +80,7 @@ for
 		this.guiPanel.add(this.startGameButton);
 
 		// Create a new choice on the panel, and add all available games
-		this.gameChooser = new JComboBox(this.gameFactory.getGameNames());
+		this.gameChooser = new JComboBox(this.gameFactory);
 		this.guiPanel.add(this.gameChooser);
 
 		// Add both the new panel and the GameView to myself
