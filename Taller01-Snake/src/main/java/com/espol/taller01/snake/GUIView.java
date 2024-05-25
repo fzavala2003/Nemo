@@ -75,6 +75,8 @@ public class GUIView extends JPanel {
 
 		this.startGameButton = new JButton("Pcvf");
 
+		this.startGameButton = new JButton("e");
+
 
 
 
