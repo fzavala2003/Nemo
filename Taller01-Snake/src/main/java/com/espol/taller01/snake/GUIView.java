@@ -70,6 +70,9 @@ public class GUIView extends JPanel {
 
 		this.startGameButton = new JButton("Setg");
 
+		this.startGameButton = new JButton("Setgup);
+
+
 		this.startGameButton = new JButton("Pcvf");
 
 
