@@ -6,7 +6,7 @@
 <!--Italica-->
 this is an *italic* text
 <!--Strong-->
-this is an **strong** text 
+this is an **strong** text
 <!--tachado-->
 este es un ~~texto~~ tachado
 
@@ -47,8 +47,7 @@ print("Mi markdown")
 * [x] task1
 
 
-@fzavala2003 deedde :blush:
-dede
+@fzavala2003 deedde :blush:dede
 
 
 
